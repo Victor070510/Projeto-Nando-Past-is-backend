@@ -61,7 +61,7 @@ Este é um exemplo básico e pode necessitar de ajustes para um ambiente de prod
 
 # API de Pedidos de Nando Pasteis
 
-Esta API foi desenvolvida para gerenciar pedidos de uma loja fictícia chamada Nando Pasteis. Ela recebe dados dos pedidos, incluindo informações do cliente e itens do carrinho, armazenando-os em um banco de dados MySQL.
+Esta API foi desenvolvida para gerenciar pedidos de um comércio ja existente chamado de Nando Pasteis. Ela recebe dados dos pedidos, incluindo informações do cliente e itens do carrinho, armazenando-os em um banco de dados MySQL.
 
 ## Funcionalidades
 
