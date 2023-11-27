@@ -56,8 +56,6 @@ Esta API foi criada para receber e armazenar pedidos de uma loja chamada Nando P
 
 ---
 
-Este é um exemplo básico e pode necessitar de ajustes para um ambiente de produção.
-
 
 # API de Pedidos de Nando Pasteis
 
